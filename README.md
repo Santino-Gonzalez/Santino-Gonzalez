@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23FF0000&lines=Hello,+There!+👋;I´m+Santino+González!;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h1>
 
 <!--
 **Santino-Gonzalez/Santino-Gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
